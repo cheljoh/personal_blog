@@ -17,8 +17,6 @@ html {
   text-align: center;
   font-size: 40px;
   color: #000;
-  /*background: url("../images/kitty-babe-in-spacewallpaper.jpg") no-repeat;*/
-  /*background-size: cover;*/
   background-color: #00CCFF;
   height: 700px;
   padding-top: 50px;
@@ -28,17 +26,15 @@ html {
   font-size: 40px;
   text-align: center;
   background-color: #fff;
-  /*color: purple;*/
   height: 65px;
   width: 200px;
   margin: auto;
   border-radius: 10%;
-  /*float: left; */
-  /*border: 5px solid #FF66FF;*/
 }
 
 #cheljoh-text{
   font-family: 'Press Start 2P', cursive;
+  font-size: 80px;
   color: #FFF;
 }
 
