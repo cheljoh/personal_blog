@@ -51,6 +51,10 @@ html {
   display: none;
 }
 
+#resume{
+  display: none;
+}
+
 #hide-about{
   background-color: #C8C8C8
 }
