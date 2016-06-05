@@ -7,6 +7,7 @@ $(document).ready(function(){
 
 
 function showAbout(){
+  hideResume();
   $("#about-content").show();
   $('html,body').animate({
   scrollTop: $("#about-content").offset().top
@@ -14,6 +15,7 @@ function showAbout(){
 }
 
 function showResume(){
+  hideAbout();
   $("#resume").show();
   $('html,body').animate({
   scrollTop: $("#resume").offset().top
